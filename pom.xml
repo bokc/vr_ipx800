@@ -1,0 +1,9 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.bokc.ipx800</groupId>
+    <artifactId>vr-ipx800</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+
+    <name>VR IPX800</name>
+</project>
